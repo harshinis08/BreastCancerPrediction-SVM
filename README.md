@@ -6,8 +6,10 @@ The key challenge in cancer detection is how to classify tumors into malignant a
 
 In this case study, I tried to classify tumors into malignant and benign tumors using features obtained from several cell images. I built a Machine Learning model that is trained using the training data and learns which tumor is malignant and which is benign. After training the model, it uses the testing data to classify the tumors and calculated the accuracy of the model which is .
 
+# Data:
 The data used to build the model contains 30 features like radius, texture, perimeter, smoothness and area, symmetry, fractal dimension, concavity, compactness, etc. 
 Number of instances (or rows) : 569
+
 Class distribution: 212 Malignant and 357 Benign
 Target Class: Malignant or Benign
 
