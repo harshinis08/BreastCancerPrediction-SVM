@@ -8,8 +8,8 @@ In this case study, I tried to classify tumors into malignant and benign tumors 
 
 # Data:
 The data used to build the model contains 30 features like radius, texture, perimeter, smoothness and area, symmetry, fractal dimension, concavity, compactness, etc. 
-Number of instances (or rows) : 569
 
+Number of instances (or rows) : 569
 Class distribution: 212 Malignant and 357 Benign
 Target Class: Malignant or Benign
 
